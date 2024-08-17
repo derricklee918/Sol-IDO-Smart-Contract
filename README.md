@@ -1,2 +1,1 @@
-# SolMateWebsite
-SolMate website development
+
